@@ -37,6 +37,7 @@ After importing, review the app and publish it if needed.
 |---------------|--------------|--------------|
 | <img src="screenshots/desktop-design-p1.png" height="400"/> | <img src="screenshots/tablet-design-p1.png" height="400"/> | <img src="screenshots/mobile-design-p1.png" height="400"/> |
 | <img src="screenshots/desktop-design-p2.png" height="400"/> | <img src="screenshots/tablet-design-p2.png" height="400"/> | <img src="screenshots/mobile-design-p2.png" height="400"/> |
+| <img src="screenshots/desktop-design-p3.png" height="400"/> | <img src="screenshots/tablet-design-p3.png" height="400"/> | <img src="screenshots/mobile-design-p3.png" height="400"/> |
 ---
 
 ## 📊 Features
